@@ -204,3 +204,27 @@ table,td
   width: 90%;
   margin-left: 45px;
 }
+#download1
+{
+     width: 200px;
+     height: 30px;
+     background-color: #44cc00;
+     color: white;
+     
+}
+#download2
+{
+     width: 200px;
+     height: 30px;
+     background-color:#2e5cb8;
+     color: white;
+
+}
+#download3
+{
+     width: 200px;
+     height: 30px;
+     background-color:#2e5cb8;
+     color: white;
+
+}
