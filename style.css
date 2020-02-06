@@ -1,0 +1,206 @@
+#full-body
+{
+  height: auto;
+  border:1px solid black;
+}
+#head-first
+{
+  height: auto;
+  /* border:1px solid black; */
+}
+#pre
+{
+  /* background-color: 	#00ffbf; */
+  font-style: italic;
+}
+.support
+{
+  width: 20px;
+  height: 20px;
+  background-color: 	#0040ff;
+}
+#head-second
+{
+  height: auto;;
+}
+/* Change Navigation Color */
+.navbar #myMenu .custom-nav .nav-item a{
+  color: white;
+}
+/* Change Navigation Hover Color */
+.navbar #myMenu .custom-nav .nav-item a:hover{
+  background: #00cc00;
+  font-weight: bold;
+
+}
+#small_heading
+{
+  color:white;
+  width:150px;
+  height: 40px;
+  text-align: center;
+  padding: 6px;
+  background-color:cyan;;
+  /* padding-left: 10px; */
+
+
+
+}
+#small_heading1
+{
+  color:white;
+  width:150px;
+  height: 40px;
+  text-align: center;
+  padding: 6px;
+  background-color:cyan;;
+}
+#small_heading2
+{
+  color:white;
+  width:160px;
+  height: 40px;
+  text-align: center;
+  padding: 6px;
+  background-color:cyan;;
+
+}
+#small_heading3
+{
+  color:white;
+  width:160px;
+  height: 40px;
+  text-align: center;
+  padding: 6px;
+  background-color:cyan;;
+
+}
+#small_heading4
+{
+  color:white;
+  width:200px;
+  height: 40px;
+  text-align: center;
+  padding: 6px;
+  background-color:cyan;;
+
+}
+table,td
+{
+  border-top: 0.5px dotted black;
+  border-bottom: 0.5px dotted black;
+ border-collapse: collapse;
+}
+
+
+}
+#footer
+{
+  width: 100%;
+  height: 150px;
+}
+
+
+
+/* Featured Design */
+.firstdiv
+{
+    border:2px solid black;
+    /* height: 300px; */
+    margin-left: 15px;
+}
+.seconddiv
+{
+    border:2px solid black;
+    /* height: 300px; */
+    margin-left: 15px;
+}
+.thriddiv
+
+  {
+      border:2px solid black;
+      /* height: 300px; */
+      margin-left: 15px;
+  }
+.fourthdiv
+{
+  border:2px solid black;
+  /* height: 300px; */
+  margin-left: 15px;
+}
+.fifthdiv
+{
+  border:2px solid black;
+  /* height: 300px; */
+  margin-left: 15px;
+
+}
+.sixththdiv
+{
+  border:2px solid black;
+  /* height: 300px; */
+  margin-left: 15px;
+
+}
+.seventhdiv
+{
+  border:2px solid black;
+  /* height: 300px; */
+  margin-left: 15px;
+
+}
+.eightdiv
+{
+  border:2px solid black;
+  /* height: 300px; */
+  margin-left: 15px;
+
+}
+.ninthdiv
+{
+  border:2px solid black;
+  /* height: 300px; */
+  margin-left: 15px;
+
+}
+.tenthdiv
+{
+  border:2px solid black;
+  /* height: 300px; */
+  margin-left: 15px;
+
+}
+.elevendiv
+{
+  border:2px solid black;
+  /* height: 300px; */
+  margin-left: 15px;
+
+}
+.twelvediv
+{
+  border:2px solid black;
+  /* height: 300px; */
+  margin-left: 15px;
+
+}
+.thriteendiv
+{
+  border:2px solid black;
+  /* height: 300px; */
+  margin-left: 15px;
+
+}
+.fourthteendiv
+{
+  border:2px solid black;
+  /* height: 300px; */
+  margin-left: 15px;
+
+}
+#first_help
+{
+  border: 20px solid  #4dff4d;
+  width: 90%;
+  margin-left: 45px;
+}
